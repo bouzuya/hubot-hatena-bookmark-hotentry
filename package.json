@@ -1,6 +1,6 @@
 {
   "name": "hubot-hatena-bookmark-hotentry",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A Hubot script that display the hateb hotentry",
   "main": "index.js",
   "scripts": {
